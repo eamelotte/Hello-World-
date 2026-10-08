@@ -25,13 +25,6 @@ For this project, I used markdown, python and SQL, as well as Excel and also a v
 For this project, I used one main file that I created as well as a few images. 
 URL Link to file: https://iowa-my.sharepoint.com/:w:/r/personal/eamelotte_uiowa_edu/Documents/Best%20Study%20Spots%20In%20Iowa%20City.docx?d=w5c0238efee964063945500dde8b9ba32&csf=1&web=1&e=tsjeHn
 
-## How to Run Program 
-Best_Study_Spots_Iowa_City/
-|- README.md
-|- analysis.py 
-|-Best_spot_iowa_city.csv
-|-examples.html
-
 ## Additional Information 
 Here are a few of my quick top picks: 
 - Main Library (Campus)
